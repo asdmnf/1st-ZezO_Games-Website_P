@@ -6,7 +6,8 @@ This project was deployed at [1st-ZezO_Games-Website](https://asdmnf.github.io/1
 
 ### `Tech Stack`
 
-HTML – CSS
+* HTML
+* CSS
 
 
 <!-- ### `Note`
