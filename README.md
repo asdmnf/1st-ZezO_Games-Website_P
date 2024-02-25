@@ -4,7 +4,12 @@ This project was deployed at [1st-ZezO_Games-Website](https://asdmnf.github.io/1
 
 **[Video Preview](https://youtu.be/w5CLjQpjxDg)**.
 
-### `Note`
+### `Tech Stack`
+
+HTML – CSS
+
+
+<!-- ### `Note`
 
 may be this project is not completed as i wish.\
-but i prefer to keep it like that to remember my begins.
+but i prefer to keep it like that to remember my begins. -->
